@@ -1,0 +1,245 @@
+{
+    "frames":{
+        "d_psi": {
+            "frame":{ "x":468,"y":0,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "gold": {
+            "frame":{ "x":468,"y":36,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "stairsu": {
+            "frame":{ "x":468,"y":72,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "tree": {
+            "frame":{ "x":468,"y":108,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "d_treasure": {
+            "frame":{ "x":468,"y":144,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "p_cleric": {
+            "frame":{ "x":468,"y":180,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "tower": {
+            "frame":{ "x":468,"y":216,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "stairsd": {
+            "frame":{ "x":0,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "d_stamina": {
+            "frame":{ "x":36,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "p_barbarian": {
+            "frame":{ "x":72,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "swamp": {
+            "frame":{ "x":108,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "treasure": {
+            "frame":{ "x":144,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "p_thinker": {
+            "frame":{ "x":180,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "path_1": {
+            "frame":{ "x":216,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "frame": {
+            "frame":{ "x":252,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "wall": {
+            "frame":{ "x":288,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "d_exp": {
+            "frame":{ "x":324,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "p_warrior": {
+            "frame":{ "x":360,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "grass": {
+            "frame":{ "x":396,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "path_3": {
+            "frame":{ "x":432,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "door": {
+            "frame":{ "x":468,"y":252,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "p_wizard": {
+            "frame":{ "x":0,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "castle": {
+            "frame":{ "x":36,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "path_2": {
+            "frame":{ "x":72,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "forest": {
+            "frame":{ "x":108,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "path_base": {
+            "frame":{ "x":144,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "floor": {
+            "frame":{ "x":180,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "path_0": {
+            "frame":{ "x":216,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "scroll": {
+            "frame":{ "x":0,"y":0,"w":464,"h":249 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":464,"h":249 },
+            "sourceSize":{ "w":464,"h":249 }
+        },
+        "building": {
+            "frame":{ "x":252,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "d_combat": {
+            "frame":{ "x":288,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "d_turns": {
+            "frame":{ "x":324,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        },
+        "water": {
+            "frame":{ "x":360,"y":288,"w":32,"h":32 },
+            "rotated":false,
+            "trimmed":false,
+            "spriteSourceSize":{ "x":0,"y":0,"w":32,"h":32 },
+            "sourceSize":{ "w":32,"h":32 }
+        }
+    },
+    "meta":{
+        "app":"Paul Robson's Python texture packer",
+        "version":"1.0",
+        "image":"sprites.png",
+        "size":{
+             "w":512,
+             "h":322
+         },
+         "scale":1
+    }
+}
